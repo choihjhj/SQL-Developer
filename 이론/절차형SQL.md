@@ -28,7 +28,9 @@ END;
 [SQL server]       
 CREATE Procedure 프로시저명(@매개변수명 타입)      
 BEGIN      
-END    
+END;   
+
+     프로시저삭제: [오라클]DROP PROCEDURE 프로시저명; , [SQL server]DROP PROCEDURE 스키마명.프로시저명
       
  # 사용자정의함수(UDF)
  - 프로시저랑 같은 구조     
@@ -49,7 +51,7 @@ DECLARE @리턴변수명 타입
 BEGIN      
 SET @변수명=대입    
 RETURN @리턴변수명   
-END     
+END;     
         
  # 트리거(Trigger)
  - 파라미터x,트랜잭션X
