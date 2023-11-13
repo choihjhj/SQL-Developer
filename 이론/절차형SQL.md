@@ -48,7 +48,7 @@ RETURNS 리턴타입 AS
 DECLARE @리턴변수명 타입    
 BEGIN      
 SET @변수명=대입    
-RETRUN @리턴변수명   
+RETURN @리턴변수명   
 END     
         
  # 트리거(Trigger)
