@@ -15,4 +15,6 @@ SQL 개발자 자격시험의 과목은 총 2과목으로 구성되며 필기 50
 |:------:|:---:|   
 |총점 60점 이상|과목별 40% 미만|
 
-> (출처링크) : *https://www.dataq.or.kr/www/sub/a_04.do#none*
+> DATA ON-AIR 사이트 : *https://dataonair.or.kr/db-tech-reference/d-guide/sql/?pageid=5&mod=list*     
+> SQLD (출처링크) : *https://www.dataq.or.kr/www/sub/a_04.do#none*
+
